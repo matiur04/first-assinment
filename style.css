@@ -72,7 +72,7 @@ section{
     padding-top: 17px;
 }
 .flower_area{
-    width: 80%;
+    width: 85%;
     text-align: center;
     height: 200px;
     margin: 120px auto;
@@ -107,4 +107,55 @@ section{
 }
 .footer_area p{
     margin-top: 0;
+}
+.label_text{
+    font-size: 20px;
+    font-weight: bold;
+    color: #FB984C;
+}
+.contact_area{
+    width: 85%;
+    margin: 150px auto;
+    box-shadow: 1px 1px 5px #000;
+    border-radius: 10px;
+    height: 900px;
+}
+.order_text{
+    text-align: center;
+    padding-top: 30px;
+    
+}
+.contact_area .half_width{
+    padding: 0;
+}
+.sub{
+    padding: 7px 30px;
+    background-image: linear-gradient(45deg, #FB984C, #FE492E);
+    border-radius: 30px;
+    color:#fff;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+.contact_form{
+    padding-left: 50px;
+}
+.fild_area{
+    padding: 10px;
+    border: 2px solid #A9A9A9;
+    width: 300px;
+    margin-bottom: -7px;
+}
+.fild_details{
+    width: 300px;
+    border: 2px solid #A9A9A9;
+    padding: 10px;
+    height: 80px;
+}
+.contact_area img{
+    float: none;
+    border-radius: 15px;
+    width: 95%;
+    margin-top: 26px;
+    box-shadow: 2px 2px 20px #000;
 }
