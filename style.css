@@ -52,13 +52,9 @@ section{
 .second_banner_area .half_width img{
     float: left;
 }
-.recipy_area{}
 .recipy_text{
     text-align: center;
     margin-bottom:60px;
-}
-.recipy_items{
-
 }
 .recipy_single_item{
     width: 26%;
