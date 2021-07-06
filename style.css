@@ -19,7 +19,7 @@ a{
 }
 
 section{
-    height: 490px;
+    height: 700px;
 }
 .half_width{
     width:50%;
@@ -43,4 +43,11 @@ section{
 }
 .half_width p{
     margin-bottom: 30px;
+}
+.second_banner_area{
+    background-image: url(image/BG_img.png);
+    background-repeat: no-repeat;
+}
+.second_banner_area .half_width img{
+    float: left;
 }
