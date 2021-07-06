@@ -1,5 +1,6 @@
 body{
-  font-family: 'Poppins', sans-serif;;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
 }
 h1{
     font-size: 45px;
@@ -69,4 +70,41 @@ section{
 .recipy_single_item img{
     width: 90%;
     padding-top: 17px;
+}
+.flower_area{
+    width: 80%;
+    text-align: center;
+    height: 200px;
+    margin: 120px auto;
+    box-shadow: 1px 1px 10px #76B5BA;
+    border-radius: 20px;
+}
+.flower_area h1{
+    margin-bottom: 0px;
+}
+.flower_area p{
+    margin-top: 0px;
+}
+.single_flower{
+    width:33%;
+    float: left;
+    text-align: center;
+}
+.footer_area{
+    height: 200px;
+    background:#0B0D17;
+    color:#fff;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top:20px;
+}
+.footer_area h2{
+    color:#4E4E4F;
+    margin-bottom: 0;
+}
+.footer_area span{
+    color: #FB994C;;
+}
+.footer_area p{
+    margin-top: 0;
 }
